@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="215db3a4-3320-4d34-a62d-f96fdb6baf15" name="Changes" comment="Not ready to solve this one">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numbers-disappeared-from-array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/numbers-disappeared-from-array.test.js" afterDir="false" />
+    <list default="true" id="215db3a4-3320-4d34-a62d-f96fdb6baf15" name="Changes" comment="448. Find All Numbers Disappeared in an Array&#10;&#10;https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +129,7 @@
       <updated>1694293921690</updated>
       <workItem from="1694293923178" duration="36000" />
       <workItem from="1694294011206" duration="717000" />
-      <workItem from="1694295511579" duration="7494000" />
+      <workItem from="1694295511579" duration="7687000" />
     </task>
     <task id="LOCAL-00001" summary="Not ready to solve this one">
       <option name="closed" value="true" />
@@ -141,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694299722523</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="448. Find All Numbers Disappeared in an Array&#10;&#10;https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">
+      <option name="closed" value="true" />
+      <created>1694360688600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694360688600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Not ready to solve this one" />
-    <option name="LAST_COMMIT_MESSAGE" value="Not ready to solve this one" />
+    <MESSAGE value="448. Find All Numbers Disappeared in an Array&#10;&#10;https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/" />
+    <option name="LAST_COMMIT_MESSAGE" value="448. Find All Numbers Disappeared in an Array&#10;&#10;https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -163,7 +170,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/numbers-disappeared-from-array.js</url>
-          <line>7</line>
+          <line>8</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
