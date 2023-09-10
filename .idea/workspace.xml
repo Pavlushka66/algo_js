@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="215db3a4-3320-4d34-a62d-f96fdb6baf15" name="Changes" comment="448. Find All Numbers Disappeared in an Array&#10;&#10;https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="215db3a4-3320-4d34-a62d-f96fdb6baf15" name="Changes" comment="gitignore">
+      <change afterPath="$PROJECT_DIR$/src/longest-common-subpath.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/longest-common-subpath.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +53,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Jest.numbers-disappeared-from-array.test.js">
-    <configuration name="double" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/test/numbers-disappeared-from-array.test.js" />
-      <test-names>
-        <test-name value="double" />
-      </test-names>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Jest.longest-common-subpath.test.js">
     <configuration name="few" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
@@ -76,6 +66,15 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="longest-common-subpath.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/test/longest-common-subpath.test.js" />
+      <method v="2" />
+    </configuration>
     <configuration name="numbers-disappeared-from-array.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
@@ -83,6 +82,18 @@
       <envs />
       <scope-kind value="TEST_FILE" />
       <test-file value="$PROJECT_DIR$/test/numbers-disappeared-from-array.test.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="one" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/longest-common-subpath.test.js" />
+      <test-names>
+        <test-name value="one" />
+      </test-names>
       <method v="2" />
     </configuration>
     <configuration name="single zero (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
@@ -97,25 +108,13 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="single zero" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/test/light-coverage.test.js" />
-      <test-names>
-        <test-name value="single zero" />
-      </test-names>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.longest-common-subpath.test.js" />
+        <item itemvalue="Jest.one" />
         <item itemvalue="Jest.numbers-disappeared-from-array.test.js" />
         <item itemvalue="Jest.single zero (1)" />
         <item itemvalue="Jest.few" />
-        <item itemvalue="Jest.double" />
-        <item itemvalue="Jest.single zero" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,7 @@
       <updated>1694293921690</updated>
       <workItem from="1694293923178" duration="36000" />
       <workItem from="1694294011206" duration="717000" />
-      <workItem from="1694295511579" duration="7687000" />
+      <workItem from="1694295511579" duration="10245000" />
     </task>
     <task id="LOCAL-00001" summary="Not ready to solve this one">
       <option name="closed" value="true" />
@@ -147,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694360688600</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gitignore">
+      <option name="closed" value="true" />
+      <created>1694360745019</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694360745019</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +164,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Not ready to solve this one" />
     <MESSAGE value="448. Find All Numbers Disappeared in an Array&#10;&#10;https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/" />
-    <option name="LAST_COMMIT_MESSAGE" value="448. Find All Numbers Disappeared in an Array&#10;&#10;https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/" />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
